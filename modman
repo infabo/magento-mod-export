@@ -1,0 +1,3 @@
+app/code/community/OpsWay/ExportProducts app/code/community/OpsWay/ExportProducts
+app/etc/modules/OpsWay_ExportProducts.xml app/etc/modules/OpsWay_ExportProducts.xml
+app/design/adminhtml/default/default/layout/exportproducts.xml app/design/adminhtml/default/default/layout/exportproducts.xml
